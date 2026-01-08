@@ -1,0 +1,13 @@
+HTML stands for HyperText Markup Language. It's a standard markup language used to create web pages. Think of it like a set of instructions that tells your browser how to display content on the internet.
+
+In our Sigma Web Development course, we cover HTML in several videos. If you're new to HTML, I recommend starting with video 3, "Basic Structure of an HTML Website", which explains what HTML is and how it's structured. This video is around 4 minutes long and starts at timestamp 0:00.
+
+In this video, you'll learn about the basic building blocks of an HTML document, such as the `<!DOCTYPE html>` declaration, `<html>`, `<head>`, and `<body>` tags. You'll also see how to add text content and link to external stylesheets or scripts.
+
+If you're curious about semantic tags in HTML, that's covered in video 11, "Semantic Tags in HTML", which starts at timestamp 0:00. This 4-minute video introduces you to HTML elements like `<header>`, `<nav>`, `<main>`, and more, showing how they help create a well-structured web page.
+
+For a deeper dive into HTML, check out video 8, "Inline & Block Elements in HTML", which starts at timestamp 0:00. This 4-minute video explores the concept of inline elements (like `span`) versus block elements (like `div`), and how they affect the layout of your web page.
+
+Lastly, if you want to learn about entities, code tags, and more advanced topics in HTML, head to video 13, "Entities, Code tag and more on HTML", which starts at timestamp 0:00. This 2-minute video wraps up our coverage of HTML, covering some of the more obscure aspects of the language.
+
+Remember, these timestamps are approximate, so you can always scrub through the videos to find exactly what you're looking for!
