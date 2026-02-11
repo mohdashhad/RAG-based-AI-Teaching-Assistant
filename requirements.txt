@@ -1,0 +1,57 @@
+#📌 System Requirements:
+
+##💻 Hardware Requirements
+Minimum 8 GB RAM (16 GB recommended)
+At least 20 GB free storage
+64-bit processor (Intel i5 / Ryzen 5 or higher recommended)
+Optional: NVIDIA GPU (for faster inference)
+
+##🐍 Python:
+Python 3.10 (Recommended)
+
+##🎬 FFmpeg:
+Required for:
+Audio processing
+Lecture recordings
+Speech-to-text pipelines
+Install FFmpeg
+Windows
+Download from:
+https://ffmpeg.org/download.html
+Add FFmpeg to system PATH.
+
+##🧠 Ollama (Local LLM Runtime):
+Required to run Large Language Models locally.
+Download from:
+https://ollama.com/download
+🤖 LLM Model (Required)
+After installing Ollama, download any supported model.
+Recommended Models:
+llama3
+mistral
+phi
+gemma
+
+##Example:
+ollama pull llama3
+⚙ Optional (Advanced Features)
+FAISS (Vector search alternative to ChromaDB)
+Faster Whisper (Speech processing enhancement)
+CUDA Toolkit (GPU acceleration)
+
+##💾 Storage Requirement:
+LLM model: 4–8 GB
+Embedding model: ~500 MB
+Project dependencies: 1–2 GB
+Dataset size: Depends on uploaded documents
+Recommended free disk space: 15–20 GB
+
+##✅ Verification Checklist:
+Before running the project, ensure:
+Python 3.10 installed
+FFmpeg installed and added to PATH
+Ollama installed
+LLM model downloaded
+Virtual environment created
+Dependencies installed
+Dataset added to /data folder
